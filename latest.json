@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.0",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.0.zip",
-    "sha256": "06ceb1f50d11b0e2f8944f2327d16772e7166edc2aa9ebb12ed56c897ba5b831",
-    "size": 77998,
-    "notes": "First release with automatic updates",
+    "version": "0.2.1",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.1.zip",
+    "sha256": "a0e1daff1cd8cf991bc45841e4854990a23937767a58dc39d98417d1cf2b5e2b",
+    "size": 80816,
+    "notes": "Kickstart to Kickstart 2 swaps now keep the curve, mix and all 16 curves",
     "published": "2026-11-21"
   },
-  "signature": "d51d454f3b779258d4ebc3c2f3521088dc7966d0eaf3bd94458342176ab39139ffec57333e08d16fac249a3353df055c2f584a8ac0f62a1fa831c8fc36e4cc0c"
+  "signature": "701c47b1045390fce137f64d96d839f93e4a8f9047db9fb49d951e80ca7f7ba3b7f9264608fb71d03270ce86ebf7c2599f9208575053137c38713b02df94f20a"
 }
