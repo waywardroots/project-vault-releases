@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.1",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.1.zip",
-    "sha256": "a0e1daff1cd8cf991bc45841e4854990a23937767a58dc39d98417d1cf2b5e2b",
-    "size": 80816,
-    "notes": "Kickstart to Kickstart 2 swaps now keep the curve, mix and all 16 curves",
+    "version": "0.2.2",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.2.zip",
+    "sha256": "e82c6ac056b1662f4451baf702fe471aabb055fd96e69294964a52b408d96787",
+    "size": 83616,
+    "notes": "Live 10 projects swap without a resave, Kickstart to Kickstart 2, resave helper, --skip option",
     "published": "2026-11-21"
   },
-  "signature": "701c47b1045390fce137f64d96d839f93e4a8f9047db9fb49d951e80ca7f7ba3b7f9264608fb71d03270ce86ebf7c2599f9208575053137c38713b02df94f20a"
+  "signature": "19bbb65534bd135759b920dfc157e40f4340688a20e14cede82e8a98ac67b8079e9d22af11b37577f0f1bc4030f1ef4c73f4fed8b49943a943172d44e38c4601"
 }
