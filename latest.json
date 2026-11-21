@@ -1,0 +1,12 @@
+{
+  "manifest": {
+    "app": "project_vault",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.0.zip",
+    "sha256": "06ceb1f50d11b0e2f8944f2327d16772e7166edc2aa9ebb12ed56c897ba5b831",
+    "size": 77998,
+    "notes": "First release with automatic updates",
+    "published": "2026-11-21"
+  },
+  "signature": "d51d454f3b779258d4ebc3c2f3521088dc7966d0eaf3bd94458342176ab39139ffec57333e08d16fac249a3353df055c2f584a8ac0f62a1fa831c8fc36e4cc0c"
+}
