@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.3",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.3.zip",
-    "sha256": "59789e734129b1978f53144c2cc6972685148b49e965b5b51ab19756af827f0e",
-    "size": 84443,
-    "notes": "Serum 1 tip, Diva and Nexus VST3 to VST2 keep their sounds (tested)",
+    "version": "0.2.4",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.4.zip",
+    "sha256": "22db12afef4998e2859bbfff8a7044168b7c80dbf1d9fe17c516fbf11c20efa4",
+    "size": 95005,
+    "notes": "Version history (watch, autostart, list, diff, restore) and duplicates",
     "published": "2026-11-21"
   },
-  "signature": "853f41f4f9a10b0bd61ec03e692915d345271199c632a9ffcfb7f48eb902b833e085642e1d362148ed40af2cbfceaf12a11b05144fc7f644cb0e1913be4fb806"
+  "signature": "99eaee5424601df1dec3e2990aa91163ef08ecf01bbe84a611d3a0b48af5558218d84d887201ad674d3dbc0497e72ed62b4c3d5e8124499292e7dca26df21a06"
 }
