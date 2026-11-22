@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.4",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.4.zip",
-    "sha256": "22db12afef4998e2859bbfff8a7044168b7c80dbf1d9fe17c516fbf11c20efa4",
-    "size": 95005,
-    "notes": "Version history (watch, autostart, list, diff, restore) and duplicates",
+    "version": "0.2.5",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.5.zip",
+    "sha256": "e0eb1365c1a1bfc82773a7dfe6758cbd5090bcee1171688d344be8818edc1beb",
+    "size": 103338,
+    "notes": "Sidecar files: history follows moved and renamed songs; version labels. Plugin library: every plugin sound saved as .fxp/.vstpreset with track and preset names (presets collect/list/export).",
     "published": "2026-11-21"
   },
-  "signature": "99eaee5424601df1dec3e2990aa91163ef08ecf01bbe84a611d3a0b48af5558218d84d887201ad674d3dbc0497e72ed62b4c3d5e8124499292e7dca26df21a06"
+  "signature": "c4bd1558c0679fb98864f89171a27504db77302fbd4003647e2a2e144e2b69ae7a9cfdc7518784ef775589598aba7305de7018c744919f33c262718cde49980a"
 }
