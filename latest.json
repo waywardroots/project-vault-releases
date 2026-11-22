@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.2",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.2.zip",
-    "sha256": "e82c6ac056b1662f4451baf702fe471aabb055fd96e69294964a52b408d96787",
-    "size": 83616,
-    "notes": "Live 10 projects swap without a resave, Kickstart to Kickstart 2, resave helper, --skip option",
+    "version": "0.2.3",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.3.zip",
+    "sha256": "59789e734129b1978f53144c2cc6972685148b49e965b5b51ab19756af827f0e",
+    "size": 84443,
+    "notes": "Serum 1 tip, Diva and Nexus VST3 to VST2 keep their sounds (tested)",
     "published": "2026-11-21"
   },
-  "signature": "19bbb65534bd135759b920dfc157e40f4340688a20e14cede82e8a98ac67b8079e9d22af11b37577f0f1bc4030f1ef4c73f4fed8b49943a943172d44e38c4601"
+  "signature": "853f41f4f9a10b0bd61ec03e692915d345271199c632a9ffcfb7f48eb902b833e085642e1d362148ed40af2cbfceaf12a11b05144fc7f644cb0e1913be4fb806"
 }
