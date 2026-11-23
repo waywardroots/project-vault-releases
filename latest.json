@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.3.2",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.2.zip",
-    "sha256": "a93475b2954884f88253d831235228725571084782b7b831539b0664bb85c525",
+    "version": "0.3.3",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.3.zip",
+    "sha256": "a9b3862c139628ea0c8b12090cadc25a42c037649b9b285eea8aee6a8ffbc873",
     "size": 217403,
-    "notes": "Welcome screen for new installs: finds your Live projects folder and sample folders, and asks when Project Vault should run. Choose-folder buttons work without extra Python parts. Old-set resave wording made clearer. Ready for the new Windows installer.",
+    "notes": "Fixes Settings > Check for updates, which stopped with an error instead of showing the new version.",
     "published": "2026-11-23"
   },
-  "signature": "b35d61a4657359febda79dc809527013b4fef7ddbfe030d8e860796a449e4cfd513e63547fb35bb0973b5c15a3f04130dfd447f88c85b321fdb5db785de7f10f"
+  "signature": "fe872d5326c6d2feb6a4a832ae6c53682b471de33e3b8de3d7ab7bfb490fbc5c6bf017b1f00d02b9d85998a6c5fe2a50a614cc4b7c2aa0e6a098155e711de201"
 }
