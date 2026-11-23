@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.2.5",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.2.5.zip",
-    "sha256": "e0eb1365c1a1bfc82773a7dfe6758cbd5090bcee1171688d344be8818edc1beb",
-    "size": 103338,
-    "notes": "Sidecar files: history follows moved and renamed songs; version labels. Plugin library: every plugin sound saved as .fxp/.vstpreset with track and preset names (presets collect/list/export).",
-    "published": "2026-11-21"
+    "version": "0.3.0",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.0.zip",
+    "sha256": "ddabdc06ca345e0272150cf1993c4e6ab97c20f668e7641e42beec47eedcce3e",
+    "size": 162808,
+    "notes": "Project Vault window: songs, version history, fix projects, plugin sounds, settings. Left panel follows the song open in Live. Backups to OneDrive, Google Drive, Dropbox or any folder. Runs in the taskbar's hidden icons; choose to start with Windows, with Ableton Live, or only when opened.",
+    "published": "2026-11-22"
   },
-  "signature": "c4bd1558c0679fb98864f89171a27504db77302fbd4003647e2a2e144e2b69ae7a9cfdc7518784ef775589598aba7305de7018c744919f33c262718cde49980a"
+  "signature": "47b5af59fc68ff7aed507b1a9947286a128b86ac0d02b34a329f8a8fa221bcc70a45c9c816531eb58e6121037b9d8e5d9c841bd52a5e74efeeb9fefc62b81a08"
 }
