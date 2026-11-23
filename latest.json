@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.1.zip",
-    "sha256": "a3df55b4b9b5bc3c6456211e6a83e36c43423258b2bea65a9f49998d6fb30408",
-    "size": 213314,
-    "notes": "Guided resave in the window: Fix projects step 4 finds old Live 8/9 sets that need one save in Live 12, opens each in Live, moves on when it is saved (it never opens over unsaved changes), then writes their swapped copies. Your cat logo in the window, taskbar and tray. The taskbar icon handles Windows shutdown and restarts more reliably.",
+    "version": "0.3.2",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.2.zip",
+    "sha256": "a93475b2954884f88253d831235228725571084782b7b831539b0664bb85c525",
+    "size": 217403,
+    "notes": "Welcome screen for new installs: finds your Live projects folder and sample folders, and asks when Project Vault should run. Choose-folder buttons work without extra Python parts. Old-set resave wording made clearer. Ready for the new Windows installer.",
     "published": "2026-11-23"
   },
-  "signature": "f21ac599aece78f5e5919f93a6d1bab962a07df3d1bc017941afd83aba052b5fd9f14a2d809032c0164025b80b7f5e4dec702877bfba764448483c6c8fe69c0e"
+  "signature": "b35d61a4657359febda79dc809527013b4fef7ddbfe030d8e860796a449e4cfd513e63547fb35bb0973b5c15a3f04130dfd447f88c85b321fdb5db785de7f10f"
 }
