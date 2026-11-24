@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.3.4",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.4.zip",
-    "sha256": "48809f4a3672c174b7b9b9227fcc55e57891fcdf24e67eee002ce0e0dc2ed39b",
-    "size": 217555,
-    "notes": "Fixes updating for copies installed with the setup file: the update check no longer tests the old version by mistake.",
+    "version": "0.3.5",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.5.zip",
+    "sha256": "229165e62b3f9fb402957c9d2d965c0054a292fcda880ee57da7f23b959016f5",
+    "size": 221322,
+    "notes": "Plugin shopping list inside the app: every plugin your songs need, grouped by company, with links to each company's site, a search link for each plugin, biggest wins first, tick-offs, and a printable copy. No command window.",
     "published": "2026-11-23"
   },
-  "signature": "3a8c02b2f75bc664e145e97888582d7f977351fae49250179e30cfdd2b959b9de44816469917292ed1463e36e58056d7c1687cd62f1d2394e325cd82448ece06"
+  "signature": "989c360d8d6f3bec5fe51ab4141e68ca206d2fbc4cfa34fba2b47b7a5334abe929673ca34439eaba2b506d926548f56d3759077dec1f1e74f52bb1a0d4d38309"
 }
