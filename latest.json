@@ -1,12 +1,12 @@
 {
   "manifest": {
     "app": "project_vault",
-    "version": "0.3.6",
-    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.6.zip",
-    "sha256": "603a44b0bce98437e6f1568b336b5fa02e72447602f8edeb3aac3ec3e13c719b",
-    "size": 221837,
-    "notes": "Shopping list: collapse or expand each company, plus Collapse all and Expand all. Folded companies stay folded.",
-    "published": "2026-11-23"
+    "version": "0.3.7",
+    "url": "https://raw.githubusercontent.com/waywardroots/project-vault-releases/main/releases/project_vault-0.3.7.zip",
+    "sha256": "78cd0a3dcdeb9621b0bea6b1002a1f2b06804cb682a4b5eb85a929ecd415cbf4",
+    "size": 229777,
+    "notes": "Mac version groundwork (menu bar, app window, Mac plugin folders and Audio Units, start at login). License agreement shown in the installer.",
+    "published": "2026-11-25"
   },
-  "signature": "1ebeda0a21913205e24e8d6669b576b7ef2e097b7ad6fb2b42bc3c28e036e256a6205ca7a912bbb1b4c913b6a1df5f2600f3e06ae328f064d316423e601f3302"
+  "signature": "e7c880c7151e551d12ed61da0cdac9ba3e19dbab24d0eedae808b44ca3c767be96aa54b2f19d8480f7e000f5ff0ea39539f05814aa3fdc96604e54c19c7e3007"
 }
